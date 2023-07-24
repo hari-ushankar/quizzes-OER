@@ -1,0 +1,28 @@
+[
+    {
+        "question": "The Energy Conservation principle is best related to: ",
+        "type": "multiple_choice",
+        "answers": [
+            {
+                "answer": "First law of thermodynamics",
+                "correct": true,
+                "feedback": "Correct!"
+            },
+            {
+                "answer": "Newton's first law",
+                "correct": false,
+                "feedback": "False."
+            },
+            {
+                "answer": "Newton's second law",
+                "correct": false,
+                "feedback": "False."
+            },
+            {
+                "answer": "Second law of Thermodynamics",
+                "correct": false,
+                "feedback": "False."
+            }
+        ]
+    }
+ ]

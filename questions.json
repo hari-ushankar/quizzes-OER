@@ -24,5 +24,29 @@
                 "feedback": "False."
             }
         ]
+    },
+    
+    {
+        "question": "calculate the total energy of a system including 10J of kinetic and 5J of potential energy?",
+        "type": "numeric",
+        "answers": [
+            {
+                "type": "value",
+                "value": 15,
+                "correct": true,
+                "feedback": "Awesome!"
+            },
+            {
+                "type": "value",
+                "value": 15.00,
+                "correct": true,
+                "feedback": "Bazinga!"
+            },
+            {
+                "type": "default",
+                "correct": false,
+                "feedback": "Try again."
+            }
+        ]
     }
  ]
